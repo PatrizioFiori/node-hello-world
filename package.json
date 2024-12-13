@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node script.js boolean",
-    "dev": "node --watch script.js boolean"
+    "start": "node index.js boolean",
+    "dev": "node --watch index.js boolean"
   },
   "repository": {
     "type": "git",
